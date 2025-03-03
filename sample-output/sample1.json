@@ -1,0 +1,35 @@
+{
+    "video": {
+        "name": "Screenshot (33).png",
+        "type": "PNG File",
+        "dimensions": {
+            "width": 1600,
+            "height": 900
+        },
+        "bit_depth": 32,
+        "size_kb": 178,
+        "folder_path": "C:\\Users\\Lenovo\\Pictures\\Screenshots",
+        "date_created": "02-03-2025 22:33",
+        "date_modified": "02-03-2025 22:33",
+        "attributes": "A",
+        "availability": "Offline",
+        "owner": "DESKTOP-VTTKJF3\\Lenovo",
+        "computer": "DESKTOP-VTTKJF3 (this PC)",
+        "pred": [
+            0.85
+        ],
+        "klass": [
+            "fake"
+        ],
+        "pred_label": [
+            "FAKE"
+        ],
+        "correct_label": [
+            "FAKE"
+        ],
+        "compression": [
+            "png"
+        ],
+        "phash": "3f7c9ba0f9faeb07"
+    }
+}
